@@ -5,7 +5,7 @@
  #### . Front-End Developer
  #### . Estudante da <a href='https://www.betrybe.com/' target='_blank'>Trybe</a>
  #### . Cursando ADS na instituição <a href='https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas' target='_blank'>Faculdade Senac</a>
- #### . Atualmente aprendendo Node JS
+ #### . Atualmente aprendendo TypeScript
 
 
 ## 🤝 Contato
