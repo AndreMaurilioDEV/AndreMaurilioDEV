@@ -9,25 +9,17 @@
 ## 🤝 Contato
 <div>
 <a href="https://www.linkedin.com/in/andremaurilio" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='80' height='40'/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href = "mailto:contato@andreandrade1920@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width='80' height='40'></a>
+<a href = "mailto:contato@andreandrade1920@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
 
 ## 🚀🖥️ Tecnologias
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='50' height='50' marginright='200'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='50' height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='50' height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='50' height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='50' height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" width='50' height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width='50' height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width='50' height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width='50' height='50' />
+<img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,docker,mysql,nodejs,linux,ts" />
 </div>
-
+   
 ## GitHub Stats
 <div>
 <a href="https://github.com/seu-usuário-aqui">
