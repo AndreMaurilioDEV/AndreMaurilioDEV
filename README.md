@@ -14,9 +14,8 @@
 ##  Minhas Stats
 <br>
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AndreMaurilioDEV&theme=vue-dark" alt="GitHub Streak" /></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMaurilioDEV&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AndreMaurilioDEV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="AndreMaurilioDEV's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMaurilioDEV&theme=vue-dark&hide_border=true" alt="AndreMaurilioDEV's GitHub Stats" />
 </div>
 <br>
 
