@@ -1,7 +1,7 @@
  # Hello, World! :smiley: Me chamo André Maurilio
  
  #### Desenvolvedor Back-End sempre em busca de desafios para criar soluções eficientes. 
-<p> :mortar_board: Formado em Desenvolvimento Web na <a href='https://www.betrybe.com/' target='_blank'>Trybe</a></p>
+<p> :mortar_board: Formado em Desenvolvimento Full Stack na <a href='https://www.betrybe.com/' target='_blank'>Trybe</a></p>
 <p> :books: Cursando Análise e Desenvolvimento de Sistemas na <a href='https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas' target='_blank'>Faculdade Senac</p>
  
 ## Tecnologias 
