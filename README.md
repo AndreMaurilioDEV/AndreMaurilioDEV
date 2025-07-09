@@ -1,6 +1,6 @@
  # Hello, World! :smiley: Me chamo André Maurilio
  
- #### Desenvolvedor Full Stack sempre em busca de desafios para criar soluções eficientes. 
+ #### Desenvolvedor sempre em busca de desafios para criar soluções eficientes. 
 <p> :mortar_board: Formado em Desenvolvimento Full Stack na <a href='https://www.betrybe.com/' target='_blank'>Trybe</a></p>
 <p> :books: Cursando Análise e Desenvolvimento de Sistemas na <a href='https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas' target='_blank'>Faculdade Senac</p>
 
@@ -9,7 +9,7 @@
 ## Tecnologias 
 <br>
 <div>
-<img src="https://skillicons.dev/icons?i=git,js,java,ts,nodejs,react,spring,docker,sequelize,hibernate,mysql" />
+<img src="https://skillicons.dev/icons?i=git,js,java,ts,nodejs,react,spring,mysql" />
 </div>
 <br>
 
