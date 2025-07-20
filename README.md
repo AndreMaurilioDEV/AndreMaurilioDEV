@@ -15,10 +15,17 @@
 
 ##  Minhas Stats
 <br>
-<div style="display: flex; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=AndreMaurilioDEV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="AndreMaurilioDEV's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMaurilioDEV&theme=vue-dark&hide_border=true" alt="AndreMaurilioDEV's GitHub Stats" />
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AndreMaurilioDEV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="AndreMaurilioDEV's GitHub Stats" />
+    </td>
+    <td>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMaurilioDEV&theme=vue-dark&hide_border=true" alt="AndreMaurilioDEV's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 <br>
 
 ##  Redes sociais
